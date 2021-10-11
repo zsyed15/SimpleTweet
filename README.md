@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I initially experienced issues iwth getting my api calls to work correctly. I later found out that this was due to a simple mistake ( I mistyped the api endoint).
 
 ## Open-source libraries used
 
